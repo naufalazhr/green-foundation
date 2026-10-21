@@ -1,0 +1,534 @@
+- generic [active] [ref=f5e1]:
+  - link "Lompat ke konten utama" [ref=f5e2] [cursor=pointer]:
+    - /url: "#main"
+  - banner [ref=f5e3]:
+    - generic [ref=f5e4]:
+      - link "GREEN Foundation — kembali ke beranda" [ref=f5e5] [cursor=pointer]:
+        - /url: "#hero"
+        - img "Logo GREEN Foundation" [ref=f5e6]
+      - navigation "Navigasi utama" [ref=f5e7]:
+        - link "Program" [ref=f5e8] [cursor=pointer]:
+          - /url: "#program"
+        - link "Teknologi" [ref=f5e9] [cursor=pointer]:
+          - /url: "#teknologi"
+        - link "Dampak" [ref=f5e10] [cursor=pointer]:
+          - /url: "#dampak"
+        - link "Tentang" [ref=f5e11] [cursor=pointer]:
+          - /url: "#tentang"
+        - link "Kontak" [ref=f5e12] [cursor=pointer]:
+          - /url: "#kontak"
+      - link "Konsultasi Program" [ref=f5e14] [cursor=pointer]:
+        - /url: "#kontak"
+  - main [ref=f5e15]:
+    - generic [ref=f5e17]:
+      - generic [ref=f5e18]:
+        - paragraph [ref=f5e19]: Carbon trade · Dekarbonisasi · MRV
+        - heading [level=1] [ref=f5e21]:
+          - text: Mengubah komitmen iklim menjadi
+          - emphasis [ref=f5e22]: hasil terukur
+          - text: .
+        - paragraph [ref=f5e23]: GREEN Foundation merancang dan menjalankan program karbon biru bersama korporasi, pemerintah, dan komunitas pesisir — dari penghitungan emisi dan MRV lapangan hingga kredit karbon yang transparan.
+        - generic [ref=f5e24]:
+          - link "Rancang program Anda" [ref=f5e25] [cursor=pointer]:
+            - /url: "#kontak"
+            - text: Rancang program Anda
+            - generic [aria-hidden] [ref=f5e26]: →
+          - link "Lihat dampak" [ref=f5e27] [cursor=pointer]:
+            - /url: "#dampak"
+        - list [ref=f5e28]:
+          - listitem [ref=f5e29]: Metodologi MRV
+          - listitem [ref=f5e30]: Data lapangan terverifikasi
+          - listitem [ref=f5e31]: Laporan siap audit
+      - complementary "Contoh dasbor pemantauan program mangrove" [ref=f5e33]:
+        - generic [ref=f5e34]:
+          - generic [ref=f5e39]: Dasbor program · Mangrove
+          - generic [ref=f5e40]: Live
+        - figure "Area rehabilitasi pesisir · Blok 04" [ref=f5e42]:
+          - img "Tangan memegang tanah dan bibit muda di area penanaman" [ref=f5e43]
+          - generic [ref=f5e45]:
+            - generic [aria-hidden] [ref=f5e46]: ✓
+            - text: MRV tervalidasi
+        - generic [ref=f5e47]:
+          - generic [ref=f5e48]:
+            - generic [ref=f5e49]: Tutupan kanopi
+            - generic [ref=f5e50]:
+              - text: "84"
+              - generic [ref=f5e51]: "%"
+          - generic [ref=f5e52]:
+            - generic [ref=f5e53]: Serapan CO₂
+            - generic [ref=f5e54]:
+              - text: "12.480"
+              - generic [ref=f5e55]: tCO₂e
+          - generic [ref=f5e56]:
+            - generic [ref=f5e57]: Bibit hidup
+            - generic [ref=f5e58]:
+              - text: "92"
+              - generic [ref=f5e59]: "%"
+        - generic [ref=f5e73]: Pembaruan otomatis · data lapangan
+        - generic [ref=f5e75]:
+          - strong [ref=f5e76]: 1,6 Jt+
+          - generic [ref=f5e77]: pohon tertanam & terpantau
+    - region "Layanan GREEN Foundation" [ref=f5e78]:
+      - generic [ref=f5e79]:
+        - generic [ref=f5e80]: Layanan
+        - generic [ref=f5e81]: Dari pengukuran lapangan sampai penerbitan kredit
+      - generic [ref=f5e83]:
+        - generic [ref=f5e84]:
+          - generic [ref=f5e85]: Emission Accounting
+          - generic [aria-hidden] [ref=f5e86]: ◆
+          - generic [ref=f5e87]: MRV & Verifikasi
+          - generic [aria-hidden] [ref=f5e88]: ◆
+          - generic [ref=f5e89]: Blue Carbon
+          - generic [aria-hidden] [ref=f5e90]: ◆
+          - generic [ref=f5e91]: Carbon Offset
+          - generic [aria-hidden] [ref=f5e92]: ◆
+          - generic [ref=f5e93]: Corporate Gifting
+          - generic [aria-hidden] [ref=f5e94]: ◆
+          - generic [ref=f5e95]: Employee Engagement
+          - generic [aria-hidden] [ref=f5e96]: ◆
+          - generic [ref=f5e97]: Loyalty to Mangrove
+          - generic [aria-hidden] [ref=f5e98]: ◆
+          - generic [ref=f5e99]: Checkout Donation
+          - generic [aria-hidden] [ref=f5e100]: ◆
+          - generic [ref=f5e101]: Community Forest
+          - generic [aria-hidden] [ref=f5e102]: ◆
+        - generic [aria-hidden] [ref=f5e103]:
+          - generic [ref=f5e104]: Emission Accounting
+          - generic [ref=f5e105]: ◆
+          - generic [ref=f5e106]: MRV & Verifikasi
+          - generic [ref=f5e107]: ◆
+          - generic [ref=f5e108]: Blue Carbon
+          - generic [ref=f5e109]: ◆
+          - generic [ref=f5e110]: Carbon Offset
+          - generic [ref=f5e111]: ◆
+          - generic [ref=f5e112]: Corporate Gifting
+          - generic [ref=f5e113]: ◆
+          - generic [ref=f5e114]: Employee Engagement
+          - generic [ref=f5e115]: ◆
+          - generic [ref=f5e116]: Loyalty to Mangrove
+          - generic [ref=f5e117]: ◆
+          - generic [ref=f5e118]: Checkout Donation
+          - generic [ref=f5e119]: ◆
+          - generic [ref=f5e120]: Community Forest
+          - generic [ref=f5e121]: ◆
+    - generic [ref=f5e123]:
+      - generic [ref=f5e124]:
+        - generic [ref=f5e125]:
+          - paragraph [ref=f5e126]:
+            - generic [ref=f5e127]: "02"
+            - text: Dampak
+          - heading "Angka yang bisa ditelusuri, bukan sekadar klaim." [level=2] [ref=f5e128]
+        - paragraph [ref=f5e129]: "Setiap angka di bawah berasal dari catatan program yang sama dengan yang kami buka untuk mitra: titik tanam, tutupan kanopi, dan status verifikasi."
+      - generic [ref=f5e130]:
+        - generic [ref=f5e131]:
+          - generic [ref=f5e132]:
+            - generic [ref=f5e133]: 1,6
+            - generic [ref=f5e134]: Jt+
+          - generic [ref=f5e135]: pohon tertanam dan terpantau
+        - generic [ref=f5e136]:
+          - generic [ref=f5e137]:
+            - generic [ref=f5e138]: "584"
+            - generic [ref=f5e139]: +
+          - generic [ref=f5e140]: program aktif bersama mitra
+        - generic [ref=f5e141]:
+          - generic [ref=f5e142]:
+            - generic [ref=f5e143]: "159"
+            - generic [ref=f5e144]: Rb+
+          - generic [ref=f5e145]: hektar area rehabilitasi
+        - generic [ref=f5e146]:
+          - generic [ref=f5e147]:
+            - generic [ref=f5e148]: "200"
+            - generic [ref=f5e149]: +
+          - generic [ref=f5e150]: komunitas dan kelompok tani mitra
+      - paragraph [ref=f5e151]: Dihimpun dari dasbor monitoring program. Diperbarui berkala setelah validasi lapangan.
+    - generic [ref=f5e153]:
+      - generic [ref=f5e154]:
+        - generic [ref=f5e155]:
+          - paragraph [ref=f5e156]:
+            - generic [ref=f5e157]: "03"
+            - text: Program berjalan
+          - heading "Enam cara masuk, satu rantai bukti yang sama." [level=2] [ref=f5e158]
+        - paragraph [ref=f5e159]: "Model kolaborasi yang sudah berjalan bersama korporasi, ritel, dan komunitas. Semua bermuara pada alur pelaporan yang sama: terukur, tertelusur, dan dapat diaudit."
+      - generic [ref=f5e160]:
+        - article [ref=f5e161]:
+          - generic [ref=f5e162]:
+            - generic [ref=f5e163]: Korporasi
+            - img "Petani menanam bibit di lahan basah rehabilitasi" [ref=f5e164]
+          - generic [ref=f5e165]:
+            - heading "Corporate gifting mangrove" [level=3] [ref=f5e166]
+            - paragraph [ref=f5e167]: Hadiah korporat yang tumbuh. Setiap bibit yang dibagikan membawa kode unik, foto titik tanam, dan laporan pertumbuhan untuk penerimanya.
+            - generic [ref=f5e168]:
+              - generic [ref=f5e169]: Bibit · kode unik · laporan
+              - generic [aria-hidden] [ref=f5e170]: →
+        - article [ref=f5e171]:
+          - generic [ref=f5e172]:
+            - generic [ref=f5e173]: Karyawan
+            - img "Bangunan mitra dengan atap hijau dan taman" [ref=f5e174]
+          - generic [ref=f5e175]:
+            - heading "Company forest" [level=3] [ref=f5e176]
+            - paragraph [ref=f5e177]: "Employee engagement yang berujung pada hutan perusahaan: satu area rehabilitasi, dibangun dari kontribusi dan kegiatan tim sepanjang tahun."
+            - generic [ref=f5e178]:
+              - generic [ref=f5e179]: Area perusahaan · kegiatan tim
+              - generic [aria-hidden] [ref=f5e180]: →
+        - article [ref=f5e181]:
+          - generic [ref=f5e182]:
+            - generic [ref=f5e183]: Ritel & loyalitas
+            - generic [ref=f5e184]: "01"
+          - heading "Loyalty points jadi mangrove" [level=3] [ref=f5e185]
+          - paragraph [ref=f5e186]: Poin pelanggan dikonversi menjadi bibit, lalu dicatat sebagai kontribusi program. Pelanggan melihat hasilnya, brand mendapat cerita yang nyata.
+          - generic [aria-hidden] [ref=f5e187]:
+            - generic [ref=f5e188]: 1.000 poin
+            - generic [ref=f5e189]: →
+            - generic [ref=f5e190]: 1 bibit
+          - generic [ref=f5e191]:
+            - generic [ref=f5e192]: Integrasi poin · dasbor mitra
+            - generic [aria-hidden] [ref=f5e193]: →
+        - article [ref=f5e194]:
+          - generic [ref=f5e195]:
+            - generic [ref=f5e196]: E-commerce
+            - img "Tangan memilah botol plastik di titik pengumpulan daur ulang" [ref=f5e197]
+          - generic [ref=f5e198]:
+            - heading "Mangrove saat checkout" [level=3] [ref=f5e199]
+            - paragraph [ref=f5e200]: Donasi satu klik di halaman pembayaran, dengan nominal yang jelas dan jejak program yang bisa dilihat pelanggan setelah transaksi.
+            - generic [ref=f5e201]:
+              - generic [ref=f5e202]: Checkout · donasi mikro
+              - generic [aria-hidden] [ref=f5e203]: →
+        - article [ref=f5e204]:
+          - generic [ref=f5e205]:
+            - generic [ref=f5e206]: Karbon
+            - generic [ref=f5e207]: "02"
+          - generic [aria-hidden] [ref=f5e208]:
+            - text: Sertifikat offset
+            - generic [ref=f5e209]:
+              - generic [ref=f5e210]: Proyek
+              - strong [ref=f5e211]: Rehabilitasi mangrove
+            - generic [ref=f5e212]:
+              - generic [ref=f5e213]: Volume
+              - strong [ref=f5e214]: 250 tCO₂e
+            - generic [ref=f5e215]:
+              - generic [ref=f5e216]: Status
+              - strong [ref=f5e217]: Terverifikasi
+            - generic [ref=f5e218]: ✓
+          - heading "Transparent carbon offsetting" [level=3] [ref=f5e219]
+          - paragraph [ref=f5e220]: "Offset karbon dengan bukti di belakangnya: metode penghitungan, titik sampling, dan status verifikasi terbuka untuk tim keberlanjutan Anda."
+          - generic [ref=f5e221]:
+            - generic [ref=f5e222]: tCO₂e · jejak audit
+            - generic [aria-hidden] [ref=f5e223]: →
+        - article [ref=f5e224]:
+          - generic [ref=f5e225]:
+            - generic [ref=f5e226]: Teknologi
+            - heading "MangroveCorder & MangroveManager" [level=3] [ref=f5e227]
+            - paragraph [ref=f5e228]: Pencatatan lapangan dan pengelolaan data program di atas ledger blockchain — setiap titik tanam punya jejak yang tidak bisa ditimpa, dan setiap mitra bisa memeriksanya sendiri.
+            - list [ref=f5e229]:
+              - listitem [ref=f5e230]:
+                - strong [ref=f5e231]: MangroveCorder
+                - text: — aplikasi lapangan untuk foto, koordinat, dan metadata tanam.
+              - listitem [ref=f5e232]:
+                - strong [ref=f5e233]: MangroveManager
+                - text: — pengelolaan program, verifikasi, dan penerbitan laporan.
+              - listitem [ref=f5e234]:
+                - strong [ref=f5e235]: Kunjungan virtual 3D
+                - text: — telusuri area program tanpa harus ke lokasi.
+            - link "Lihat lapisan teknologinya" [ref=f5e236] [cursor=pointer]:
+              - /url: "#teknologi"
+              - text: Lihat lapisan teknologinya
+              - generic [aria-hidden] [ref=f5e237]: →
+          - generic [aria-hidden] [ref=f5e238]:
+            - generic [ref=f5e239]:
+              - generic [ref=f5e240]: MangroveManager · ledger
+              - generic [ref=f5e242]:
+                - generic [ref=f5e243]: 0x8f2a…c41
+                - generic [ref=f5e244]: Tanam · 320 bibit
+                - generic [ref=f5e245]: Tercatat
+              - generic [ref=f5e246]:
+                - generic [ref=f5e247]: 0x1b7d…9e0
+                - generic [ref=f5e248]: Verifikasi · blok 04
+                - generic [ref=f5e249]: Tercatat
+              - generic [ref=f5e250]:
+                - generic [ref=f5e251]: 0x4c90…7a2
+                - generic [ref=f5e252]: Serah terima · petani
+                - generic [ref=f5e253]: Tercatat
+            - generic [ref=f5e254]:
+              - generic [ref=f5e255]: 3D
+              - generic [ref=f5e256]:
+                - strong [ref=f5e257]: Kunjungan virtual
+                - generic [ref=f5e258]: Telusuri area program dari layar
+              - generic [aria-hidden] [ref=f5e259]: ▶
+      - region [ref=f5e260]:
+        - generic [ref=f5e261]:
+          - img "Pelajar mengenakan pakaian adat membawa bendera Merah Putih dalam kegiatan lingkungan" [ref=f5e262]
+          - generic [ref=f5e263]: Gerakan Nusantara Hijau
+        - generic [ref=f5e264]:
+          - paragraph [ref=f5e265]:
+            - generic [ref=f5e266]: "04"
+            - text: Kolaborasi lintas daerah
+          - heading "Gerakan Nusantara Hijau" [level=3] [ref=f5e267]
+          - paragraph [ref=f5e268]: Program bersama sekolah, pemerintah desa, dan komunitas untuk menanam, merawat, dan mencatat mangrove di banyak titik sekaligus — dengan standar data yang sama di setiap lokasi.
+          - generic [ref=f5e269]:
+            - heading "Kesejahteraan petani & pembibitan rakyat" [level=4] [ref=f5e270]
+            - list [ref=f5e271]:
+              - listitem [ref=f5e272]:
+                - strong [ref=f5e273]: Harga disepakati di awal
+                - generic [ref=f5e274]: Bibit dibeli dengan kontrak yang jelas, bukan harga musiman.
+              - listitem [ref=f5e275]:
+                - strong [ref=f5e276]: Pendampingan teknis
+                - generic [ref=f5e277]: Pelatihan persemaian, penanaman, dan perawatan bersama field officer.
+              - listitem [ref=f5e278]:
+                - strong [ref=f5e279]: Bagi hasil kredit karbon
+                - generic [ref=f5e280]: Sebagian pendapatan program kembali ke petani dan kelompok.
+              - listitem [ref=f5e281]:
+                - strong [ref=f5e282]: Jaminan pembelian
+                - generic [ref=f5e283]: Rencana pembibitan musim berikutnya sudah punya pembeli.
+          - link "Jadi mitra gerakan" [ref=f5e284] [cursor=pointer]:
+            - /url: "#kontak"
+            - text: Jadi mitra gerakan
+            - generic [aria-hidden] [ref=f5e285]: →
+    - generic [ref=f5e287]:
+      - generic [ref=f5e288]:
+        - generic [ref=f5e289]:
+          - paragraph [ref=f5e290]:
+            - generic [ref=f5e291]: "05"
+            - text: Teknologi
+          - heading "Infrastruktur data, dari tanah sampai ledger." [level=2] [ref=f5e292]
+        - paragraph [ref=f5e293]: "Kami membangun alat yang tetap bekerja di tempat paling sulit: sinyal lemah, akses jauh, dan tim lapangan yang harus mencatat ratusan titik dalam sehari."
+      - list "Alur data program" [ref=f5e294]:
+        - listitem [ref=f5e295]:
+          - generic [ref=f5e296]: "01"
+          - text: Pengukuran lapangan
+        - listitem [ref=f5e297]:
+          - generic [ref=f5e298]: "02"
+          - text: Validasi & verifikasi
+        - listitem [ref=f5e299]:
+          - generic [ref=f5e300]: "03"
+          - text: Pencatatan ledger
+        - listitem [ref=f5e301]:
+          - generic [ref=f5e302]: "04"
+          - text: Laporan & kredit
+      - generic [ref=f5e303]:
+        - article [ref=f5e304]:
+          - heading "Aplikasi lapangan offline" [level=3] [ref=f5e309]
+          - paragraph [ref=f5e310]: Pencatatan tanam, foto, dan koordinat tetap jalan tanpa sinyal. Data tersinkron otomatis begitu perangkat kembali online, lengkap dengan stempel waktu.
+        - article [ref=f5e311]:
+          - heading "Satelit & drone" [level=3] [ref=f5e317]
+          - paragraph [ref=f5e318]: Citra multispektral untuk memantau tutupan kanopi, perubahan garis pantai, dan kesehatan vegetasi — dipadukan dengan temuan tim di lapangan.
+        - article [ref=f5e319]:
+          - heading "Sensor IoT" [level=3] [ref=f5e325]
+          - paragraph [ref=f5e326]: Salinitas, pasang surut, dan kelembapan tanah terekam terus-menerus di titik kunci.
+        - article [ref=f5e327]:
+          - heading "MRV analytics" [level=3] [ref=f5e332]
+          - paragraph [ref=f5e333]: Stok karbon, laju pertumbuhan, dan proyeksi serapan dihitung dengan metode yang dapat diuji ulang.
+        - article [ref=f5e334]:
+          - heading "API & integrasi" [level=3] [ref=f5e340]
+          - paragraph [ref=f5e341]: Hubungkan data program ke dasbor keberlanjutan, sistem loyalitas, atau pelaporan mitra.
+          - code [ref=f5e342]: GET /v1/projects/:id/mrv
+    - generic [ref=f5e344]:
+      - generic [ref=f5e345]:
+        - generic [ref=f5e346]:
+          - paragraph [ref=f5e347]:
+            - generic [ref=f5e348]: "06"
+            - text: Galeri lapangan
+          - heading "Kerja yang terjadi di luar laporan." [level=2] [ref=f5e349]
+        - paragraph [ref=f5e350]: Persemaian, penanaman, dan pertemuan warga — bagian dari program yang jarang masuk slide, tetapi menentukan hasilnya.
+      - generic [ref=f5e351]:
+        - figure "Penanaman bibit di area rehabilitasi pesisir 01" [ref=f5e352]:
+          - img "Petani menanam bibit di lahan basah rehabilitasi" [ref=f5e353]
+          - generic [ref=f5e354]:
+            - generic [ref=f5e355]: Penanaman bibit di area rehabilitasi pesisir
+            - generic [ref=f5e356]: "01"
+        - figure "Perawatan bibit di persemaian komunitas 02" [ref=f5e357]:
+          - img "Penyiraman bibit muda di persemaian" [ref=f5e358]
+          - generic [ref=f5e359]:
+            - generic [ref=f5e360]: Perawatan bibit di persemaian komunitas
+            - generic [ref=f5e361]: "02"
+        - figure "Gerakan Nusantara Hijau bersama pelajar 03" [ref=f5e362]:
+          - img "Pelajar mengenakan pakaian adat membawa bendera Merah Putih dalam kegiatan lingkungan" [ref=f5e363]
+          - generic [ref=f5e364]:
+            - generic [ref=f5e365]: Gerakan Nusantara Hijau bersama pelajar
+            - generic [ref=f5e366]: "03"
+        - figure "Pemilahan material di titik pengumpulan 04" [ref=f5e367]:
+          - img "Tangan memilah botol plastik di titik pengumpulan daur ulang" [ref=f5e368]
+          - generic [ref=f5e369]:
+            - generic [ref=f5e370]: Pemilahan material di titik pengumpulan
+            - generic [ref=f5e371]: "04"
+        - figure "Fasilitas mitra program company forest 05" [ref=f5e372]:
+          - img "Bangunan mitra dengan atap hijau dan taman" [ref=f5e373]
+          - generic [ref=f5e374]:
+            - generic [ref=f5e375]: Fasilitas mitra program company forest
+            - generic [ref=f5e376]: "05"
+    - region [ref=f5e377]:
+      - generic [ref=f5e379]:
+        - generic [ref=f5e380]:
+          - generic [ref=f5e381]: Instagram
+          - heading [level=2] [ref=f5e386]:
+            - text: Ikuti
+            - link "@greenfoundation.id" [ref=f5e387] [cursor=pointer]:
+              - /url: https://www.instagram.com/greenfoundation.id
+          - paragraph [ref=f5e388]: Catatan lapangan, kabar program, dan cerita dari petani mitra — dibagikan langsung oleh tim GREEN Foundation.
+        - link "Ikuti di Instagram" [ref=f5e389] [cursor=pointer]:
+          - /url: https://www.instagram.com/greenfoundation.id
+          - text: Ikuti di Instagram
+          - generic [aria-hidden] [ref=f5e390]: →
+    - generic [ref=f5e392]:
+      - generic [ref=f5e393]:
+        - generic [ref=f5e394]:
+          - paragraph [ref=f5e395]:
+            - generic [ref=f5e396]: "07"
+            - text: Tentang
+          - heading "Lembaga kecil dengan jaringan lapangan yang lebar." [level=2] [ref=f5e397]
+        - generic [ref=f5e398]:
+          - paragraph [ref=f5e399]: GREEN Foundation bekerja di persimpangan ekologi, data, dan penghidupan masyarakat pesisir. Kami merancang program iklim yang bisa dijalankan di lapangan, diukur dengan metode yang dapat diuji, dan dipertanggungjawabkan kepada mitra serta komunitas.
+          - paragraph [ref=f5e400]: "Sejak awal, kami memilih bekerja dari bawah: bersama pembibit rakyat, kelompok tani, dan pemerintah desa. Teknologi kami ada untuk membuat kerja itu terlihat — bukan menggantikannya."
+      - generic [ref=f5e401]:
+        - generic [ref=f5e402]:
+          - text: "01"
+          - heading "Berbasis bukti" [level=3] [ref=f5e403]
+          - paragraph [ref=f5e404]: Setiap klaim dampak punya data lapangan, metode, dan jejak audit yang bisa diperiksa ulang.
+        - generic [ref=f5e405]:
+          - text: "02"
+          - heading "Berakar di komunitas" [level=3] [ref=f5e406]
+          - paragraph [ref=f5e407]: Petani dan kelompok lokal adalah pelaksana program, bukan pelengkap laporan.
+        - generic [ref=f5e408]:
+          - text: "03"
+          - heading "Terbuka" [level=3] [ref=f5e409]
+          - paragraph [ref=f5e410]: Metodologi, temuan, dan status verifikasi dibuka untuk mitra dan pihak ketiga.
+      - generic [ref=f5e411]:
+        - heading "Tim di balik program" [level=3] [ref=f5e412]
+        - paragraph [ref=f5e413]: Sebagian tim GREEN Foundation — dari lapangan, laboratorium, sampai meja data.
+      - generic [ref=f5e414]:
+        - figure "Direktur Eksekutif Kebijakan & kemitraan" [ref=f5e415]:
+          - img "Potret direktur eksekutif GREEN Foundation" [ref=f5e417]
+          - generic [ref=f5e418]:
+            - generic [ref=f5e419]: Direktur Eksekutif
+            - generic [ref=f5e420]: Kebijakan & kemitraan
+        - figure "Kepala Program Perencanaan & pelaksanaan" [ref=f5e421]:
+          - img "Potret kepala program GREEN Foundation" [ref=f5e423]
+          - generic [ref=f5e424]:
+            - generic [ref=f5e425]: Kepala Program
+            - generic [ref=f5e426]: Perencanaan & pelaksanaan
+        - figure "Spesialis MRV Pengukuran & verifikasi" [ref=f5e427]:
+          - img "Potret spesialis MRV GREEN Foundation" [ref=f5e429]
+          - generic [ref=f5e430]:
+            - generic [ref=f5e431]: Spesialis MRV
+            - generic [ref=f5e432]: Pengukuran & verifikasi
+        - figure "Manajer Kemitraan Korporasi & ritel" [ref=f5e433]:
+          - img "Potret manajer kemitraan korporasi GREEN Foundation" [ref=f5e435]
+          - generic [ref=f5e436]:
+            - generic [ref=f5e437]: Manajer Kemitraan
+            - generic [ref=f5e438]: Korporasi & ritel
+        - figure "Peneliti Blue Carbon Sains & metodologi" [ref=f5e439]:
+          - img "Potret peneliti blue carbon GREEN Foundation" [ref=f5e441]
+          - generic [ref=f5e442]:
+            - generic [ref=f5e443]: Peneliti Blue Carbon
+            - generic [ref=f5e444]: Sains & metodologi
+        - figure "Pengembang Teknologi Platform & ledger" [ref=f5e445]:
+          - img "Potret pengembang teknologi GREEN Foundation" [ref=f5e447]
+          - generic [ref=f5e448]:
+            - generic [ref=f5e449]: Pengembang Teknologi
+            - generic [ref=f5e450]: Platform & ledger
+        - figure "Field Officer Pesisir Pendampingan komunitas" [ref=f5e451]:
+          - img "Potret field officer pesisir GREEN Foundation" [ref=f5e453]
+          - generic [ref=f5e454]:
+            - generic [ref=f5e455]: Field Officer Pesisir
+            - generic [ref=f5e456]: Pendampingan komunitas
+        - figure "Analis Geospasial Citra & pemetaan" [ref=f5e457]:
+          - img "Potret analis data geospasial GREEN Foundation" [ref=f5e459]
+          - generic [ref=f5e460]:
+            - generic [ref=f5e461]: Analis Geospasial
+            - generic [ref=f5e462]: Citra & pemetaan
+      - generic [ref=f5e463]:
+        - generic [ref=f5e464]:
+          - paragraph [ref=f5e465]: Mulai dari satu lokasi
+          - heading "Target iklim Anda butuh bukti, bukan janji." [level=2] [ref=f5e466]
+          - paragraph [ref=f5e467]: Kami bantu menyusun ruang lingkup, metode MRV, dan lini masa yang realistis — dimulai dari program percontohan yang bisa diukur dalam satu musim tanam.
+          - generic [ref=f5e468]:
+            - link "Jadwalkan diskusi" [ref=f5e469] [cursor=pointer]:
+              - /url: "#kontak"
+              - text: Jadwalkan diskusi
+              - generic [aria-hidden] [ref=f5e470]: →
+            - link "Tanya lewat WhatsApp" [ref=f5e471] [cursor=pointer]:
+              - /url: https://wa.me/6281290001234
+          - paragraph [ref=f5e472]: Respons dalam 2 hari kerja · tanpa biaya konsultasi awal
+        - generic [ref=f5e474]: G
+  - contentinfo [ref=f5e476]:
+    - generic [ref=f5e477]:
+      - generic [ref=f5e478]:
+        - generic [ref=f5e479]:
+          - link "GREEN Foundation — kembali ke beranda" [ref=f5e480] [cursor=pointer]:
+            - /url: "#hero"
+            - img "Logo GREEN Foundation versi hijau" [ref=f5e481]
+          - paragraph [ref=f5e482]: Yayasan yang bekerja untuk pemulihan ekosistem pesisir dan penghidupan masyarakat, dengan data yang bisa dipertanggungjawabkan.
+          - link "@greenfoundation.id Ikuti di Instagram" [ref=f5e483] [cursor=pointer]:
+            - /url: https://www.instagram.com/greenfoundation.id
+            - generic [ref=f5e489]:
+              - strong [ref=f5e490]: "@greenfoundation.id"
+              - generic [ref=f5e491]: Ikuti di Instagram
+          - list [ref=f5e492]:
+            - listitem [ref=f5e493]:
+              - generic [ref=f5e494]: Email
+              - link "halo@greenfoundation.id" [ref=f5e495] [cursor=pointer]:
+                - /url: mailto:halo@greenfoundation.id
+            - listitem [ref=f5e496]:
+              - generic [ref=f5e497]: WhatsApp
+              - link "+62 812 9000 1234" [ref=f5e498] [cursor=pointer]:
+                - /url: https://wa.me/6281290001234
+            - listitem [ref=f5e499]:
+              - generic [ref=f5e500]: Kantor
+              - text: Jakarta, Indonesia
+        - navigation "Program" [ref=f5e501]:
+          - heading "Program" [level=4] [ref=f5e502]
+          - list [ref=f5e503]:
+            - listitem [ref=f5e504]:
+              - link "Corporate gifting" [ref=f5e505] [cursor=pointer]:
+                - /url: "#program"
+            - listitem [ref=f5e506]:
+              - link "Company forest" [ref=f5e507] [cursor=pointer]:
+                - /url: "#program"
+            - listitem [ref=f5e508]:
+              - link "Loyalty & checkout" [ref=f5e509] [cursor=pointer]:
+                - /url: "#program"
+            - listitem [ref=f5e510]:
+              - link "Carbon offsetting" [ref=f5e511] [cursor=pointer]:
+                - /url: "#program"
+            - listitem [ref=f5e512]:
+              - link "Gerakan Nusantara Hijau" [ref=f5e513] [cursor=pointer]:
+                - /url: "#program"
+        - navigation "Teknologi" [ref=f5e514]:
+          - heading "Teknologi" [level=4] [ref=f5e515]
+          - list [ref=f5e516]:
+            - listitem [ref=f5e517]:
+              - link "Aplikasi lapangan" [ref=f5e518] [cursor=pointer]:
+                - /url: "#teknologi"
+            - listitem [ref=f5e519]:
+              - link "Satelit & drone" [ref=f5e520] [cursor=pointer]:
+                - /url: "#teknologi"
+            - listitem [ref=f5e521]:
+              - link "Sensor IoT" [ref=f5e522] [cursor=pointer]:
+                - /url: "#teknologi"
+            - listitem [ref=f5e523]:
+              - link "MRV analytics" [ref=f5e524] [cursor=pointer]:
+                - /url: "#teknologi"
+            - listitem [ref=f5e525]:
+              - link "API & integrasi" [ref=f5e526] [cursor=pointer]:
+                - /url: "#teknologi"
+        - navigation "Lembaga" [ref=f5e527]:
+          - heading "Lembaga" [level=4] [ref=f5e528]
+          - list [ref=f5e529]:
+            - listitem [ref=f5e530]:
+              - link "Tentang kami" [ref=f5e531] [cursor=pointer]:
+                - /url: "#tentang"
+            - listitem [ref=f5e532]:
+              - link "Dampak" [ref=f5e533] [cursor=pointer]:
+                - /url: "#dampak"
+            - listitem [ref=f5e534]:
+              - link "Galeri lapangan" [ref=f5e535] [cursor=pointer]:
+                - /url: "#galeri"
+            - listitem [ref=f5e536]:
+              - link "Kontak" [ref=f5e537] [cursor=pointer]:
+                - /url: "#kontak"
+            - listitem [ref=f5e538]:
+              - link "Jadwalkan diskusi" [ref=f5e539] [cursor=pointer]:
+                - /url: https://wa.me/6281290001234
+      - generic [ref=f5e540]:
+        - paragraph [ref=f5e541]: © 2026 GREEN Foundation. Hak cipta dilindungi.
+        - paragraph [ref=f5e542]: Data program diperbarui berkala dari dasbor MRV.
+        - paragraph [ref=f5e543]: Jakarta · Indonesia
